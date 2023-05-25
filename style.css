@@ -111,3 +111,7 @@ body {
   .icon:hover .hover-image {
     display: inline;
   }
+
+  #lumoHead {
+    font-size: 20px;
+  }
