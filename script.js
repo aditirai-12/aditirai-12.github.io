@@ -16,7 +16,7 @@ ReactDOM.render(
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
           <li class="nav-item">
-            <a class="nav-link" href="#mission-section">About Me</a>
+            <a class="nav-link" href="index.html">About Me</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="experience.html">Experience</a>
